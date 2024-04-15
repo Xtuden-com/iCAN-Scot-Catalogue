@@ -13,7 +13,7 @@ certifi==2019.6.16
 chardet==3.0.4
 entrypoints==0.3
 future==0.17.1
-idna==2.8
+idna==3.7
 importlib-metadata==0.19
 mccabe==0.6.1
 more-itertools==7.2.0
